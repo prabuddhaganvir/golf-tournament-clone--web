@@ -108,5 +108,5 @@ gsap.from("#page4 h1", {
     start: "top 75%",
     end: "top 70%",
     scrub: 3,
-  },
-});
+  }
+}); 
